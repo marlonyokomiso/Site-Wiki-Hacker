@@ -1,5 +1,5 @@
-# hackeretico
-Site simples em html e css, foi feito para uma competção
+# 💻 Sobre o site
+Este site foi inteiramente desenvolvido para um competição de sites. <a href="https://github.com/MailoDev">Meu GitHub</a>
 
-# Copyright By MailoDev
-Caso for utilizar este site, pesso que deixe os creditos do meu GitHub + o link do meu site <a href="http://hackeretico.rf.gd/">Clique aqui</a>
+# ⚖️ Copyright By MailoDev
+É autorizado utilizar o site mas com a comdição de deixar os creditos do meu github.
